@@ -4,7 +4,7 @@
 	branch = viewport
 [submodule "Dependencies/tracy"]
 	path = Dependencies/tracy
-	url=https://github.com/Nukem9/tracy-skyrim64-custom.git
+	url=https://github.com/wolfpld/tracy
 	branch = master
 [submodule "Dependencies/meshoptimizer"]
 	path = Dependencies/meshoptimizer
@@ -12,11 +12,11 @@
 	branch = master
 [submodule "Dependencies/tbb"]
 	path = Dependencies/tbb
-	url = https://github.com/01org/tbb.git
+	url = https://github.com/michaelpennington/oneTBB
 	branch = tbb_2019
 [submodule "Dependencies/libdeflate"]
 	path = Dependencies/libdeflate
 	url = https://github.com/ebiggers/libdeflate.git
 [submodule "Dependencies/detours"]
 	path = Dependencies/detours
-	url = https://github.com/Nukem9/detours.git
+	url = https://github.com/michaelpennington/detours.git
